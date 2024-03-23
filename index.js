@@ -1,5 +1,12 @@
 import config from "./config.js";
 
+
+console.log(config);
+
+
+
+
+
 // foi criando o arquivo: npm init -y
 
 // criado as pasta index.js
@@ -35,6 +42,6 @@ os dados da pasta config.js chamando as variaveis de ambiente
 
 //"start": "node --env-file .env index.js",
 //console.log(process.env.ROLES);
-console.log(config); 
+ 
 
 
